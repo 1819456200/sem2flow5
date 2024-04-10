@@ -1,0 +1,73 @@
+
+
+body{
+    background-color: #010112;
+    color:#89e3f6;
+}
+
+
+.navbar-brand{
+    font-weight: 600;
+    font-size: 1.7em;
+}
+.nav-link{
+    font-size: 1.2em;
+}
+.nav-tekst{
+    color:#89e3f6;
+}
+.active{
+    background-color: #ff577d;
+}
+a:hover{
+    background-color: #89e4f6bd;
+}
+
+.kort-titel{
+    color:#89e3f6;
+    font-size: 2em;
+    margin-top: 40px;
+    padding: 15px;
+
+}
+.kort-tekst{
+    margin-right: 750px;
+    padding: 15px;
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 1,5em;
+    color:#89e3f6;
+    background-color: #1414148e;
+}
+
+.border-0{
+    height: 450px;
+}
+
+.btn-info{
+    background-color:#4d9e9b;
+    border: 3px #48918f;
+    color: white;
+}
+
+.modal-content{
+    background-color: #2f404d;
+}
+.btn-close{
+    background-color: #89e3f6;
+}
+
+.btn-secondary{
+    background-color: #ff577d;
+    border: 3px #fd4d76;
+    
+}
+.card {
+    color:#89e3f6;
+    background-color: #010112;
+    
+}
+
+i{
+    color: #f33d68;
+}
